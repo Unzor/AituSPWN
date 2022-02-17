@@ -9,3 +9,7 @@ Run Aitu code
 ```
 node aitu hello_world.aitu
 ```
+You can also pass arguments:
+```
+node aitu hello_world.aitu --no-level -l
+```
